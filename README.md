@@ -26,19 +26,19 @@ Compilação do Olavo de Carvalho
 
 ### Tela Inicial
 
-![](images/home.png)
+![](home.png.png)
 
 ### Fontes
 
-![](images/fontes.png)
+![](fontes.png.png)
 
 ### Pergunta realizada
 
-![](images/pergunta.png)
+![](pergunta.png.png)
 
 ### Infográfico
 
-![](images/infografico.png)
+![](infografico.png.png)
 
 ## Conclusão
 
